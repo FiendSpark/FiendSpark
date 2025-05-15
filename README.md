@@ -22,7 +22,7 @@
 
 - Desenvolvimento de aplicativos e sistemas web
 - Front-end com React e tecnologias modernas
-- Back-end robusto com Node.js, C# e bancos de dados SQL/NoSQL
+- Back-end robusto com Node.js e bancos de dados SQL/NoSQL
 - UX/UI Design centrado no usuário
 
 🎯 Nossa missão é transformar ideias em aplicações que brilham.
