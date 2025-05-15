@@ -1,16 +1,25 @@
-## Hi there 👋
+## <p align="center">😈 FiendSpark Apps 👿</p>
 
-<!--
-**FiendSpark/FiendSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+🚀 **FiendSpark Apps** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Sediada em Belo Horizonte - MG - Brasil, atendemos clientes de diversos setores com foco em excelência técnica e experiência do usuário.
+
+🛠️ **Nossas especialidades**:
+- Desenvolvimento de aplicativos e sistemas web
+- Front-end com React e tecnologias modernas
+- Back-end robusto com Node.js e bancos de dados SQL/NoSQL
+- UX/UI Design centrado no usuário
+
+💡 **Por que escolher a FiendSpark Apps?**
+- Foco em soluções sob medida
+- Atenção com o código e com o cliente
+- Compromisso com prazos e entregas
+- Comunicação transparente e contínua
+
+🎯 Nossa missão é transformar ideias em aplicações que brilham.
+
+📫 **Entre em contato:**
+- 📧 fiendsparkapps@gmail.com
+- 📧 fiendsparkapps@outlook.com
