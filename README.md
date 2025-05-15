@@ -2,7 +2,7 @@
 
 <br>
 
-🚀 **FiendSpark Apps** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
+💡 **FiendSpark Apps** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
 
 📍 Sediada em Belo Horizonte - MG - Brasil, atendemos clientes de diversos setores com foco em excelência técnica e experiência do usuário.
 
@@ -12,13 +12,13 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,nestjs,postgres,mongodb,firebase" />
   </a>
 </p>
 
 ---
 
-### 💼 O que fazemos
+### 💻 O que fazemos
 
 - Desenvolvimento de aplicativos e sistemas web
 - Front-end com React e tecnologias modernas
@@ -32,7 +32,7 @@
 ### 🌐 Portfólio
 
 Acesse nossos projetos e soluções no portfólio:  
-🔗 [fiendsparkapps.com](https://fiendsparkapps.com) <!-- Substitua com seu link real -->
+🔗 [fiendsparkapps.com](https://fiendsparkapps.com)
 
 ---
 
