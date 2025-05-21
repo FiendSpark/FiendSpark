@@ -20,29 +20,12 @@
 
 ### 💻 O que fazemos
 
-- Desenvolvimento de aplicativos e sistemas web
-- Front-end com React e tecnologias modernas
-- Back-end robusto com Node.js e bancos de dados SQL/NoSQL
-- UX/UI Design centrado no usuário
+- Aplicativos móveis para Android e iOS
+- Sistemas e aplicações web interativas
+- Soluções digitais personalizadas de ponta a ponta
+- UX/UI Design com foco na experiência do usuário
 
-🎯 Nossa missão é transformar ideias em aplicações que brilham.
-
----
-
-### 🌐 Portfólio
-
-Acesse nossos projetos e soluções no portfólio:  
-🔗 [fiendsparkapps.com](https://fiendsparkapps.com)
-
----
-
-### 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Projeto 1** | Sistema de gestão para pequenas empresas. | React, Node.js, PostgreSQL |
-| **Projeto 2** | Aplicativo mobile de agendamento. | React Native, Firebase |
-| **Projeto 3** | Plataforma de e-commerce personalizada. | Next.js, MongoDB |
+🎯 Nossa missão é desenvolver apps que não apenas funcionem — mas deixem uma marca.
 
 ---
 
@@ -50,3 +33,4 @@ Acesse nossos projetos e soluções no portfólio:
 
 - 📧 fiendsparkapps@gmail.com  
 - 📧 fiendsparkapps@outlook.com  
+- 🌐 https://fiendsparkapps.com
